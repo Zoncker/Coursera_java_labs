@@ -1,2 +1,2 @@
-# Coursera_java_labs
+# Coursera_java
 some ol' shit
